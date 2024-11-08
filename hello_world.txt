@@ -1,1 +1,2 @@
 learning to code is tricky at first
+trying to practise making commits while revising tracking changes through git and uploading to githubgi
